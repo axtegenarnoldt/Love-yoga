@@ -14,12 +14,33 @@ Body {
     min-height: 100vh;
     display:flex;
     flex-direction: column;
+    
 }
 
 /* Header */
 header {
 background-color: white;
 width: 100%;
+}
+h1 {
+    font-family: 'Oswald' sans-serif;
+}
+
+/* styles for Menu */
+#menu {
+    
+}
+#menu ul {
+list-style-type: none;
+font-size: 130%;
+text-align: center;
+display:flex;
+padding: 10px;
+justify-content: space-evenly;
+}
+#menu i {
+color: black;
+    
 }
 
 /* Main */
