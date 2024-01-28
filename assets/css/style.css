@@ -12,36 +12,47 @@
 Body {
     background-color: rgb(188, 182, 162);
     min-height: 100vh;
-    display:flex;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
     flex-direction: column;
     
 }
 
-/* Header */
-header {
-background-color: white;
-width: 100%;
+/* header */
+header{
+    background-color: white;
+    width: 100%;
+    top: 0;
 }
+
 h1 {
-    font-family: 'Oswald' sans-serif;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
 }
 
 /* styles for Menu */
-#menu {
-    
+.menu {
+    list-style-type: none;
+    background-color: white;
 }
-#menu ul {
+.menu ul {
 list-style-type: none;
-font-size: 130%;
+display: flex;
 text-align: center;
-display:flex;
-padding: 10px;
 justify-content: space-evenly;
+padding: 10px;
 }
-#menu i {
-color: black;
-    
+.menu a{
+    text-decoration: none;
+    color: black;
 }
+
+nav{
+    width: 100%;
+    box-shadow: 0 2px 2px black;
+}
+
 
 /* Main */
 
