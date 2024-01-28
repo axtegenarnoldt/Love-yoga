@@ -7,3 +7,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* body */
+Body {
+    background-color: white;
+    min-height: 100vh;
+    display:flex;
+}
+
+/* Header */
+header {
+
+}
+
+/* Footer */
