@@ -20,15 +20,23 @@ Body {
 
 /* header */
 header{
-    background-color: white;
+    background: white;
     width: 100%;
     top: 0;
+    position: fixed;
+
 }
 
 h1 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
     font-size: 100px;
+}
+
+#logo {
+    background: url(../images/water.webp) no-repeat center center/cover;
+    position:relative;
+    width: 100%;
 }
 
 /* styles for Menu */
@@ -60,10 +68,11 @@ nav{
 /* Main */
 
 
+
 /* Footer */
 footer {
     background-color: white;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
 }
@@ -78,4 +87,9 @@ footer {
 #socialmedia i {
     color: black;
     font-size: 150%;
+}
+
+/* sign up page*/
+#signup {
+    background-image: url(../images/yoga.webp);
 }
