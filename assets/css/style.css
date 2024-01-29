@@ -71,6 +71,17 @@ nav{
     text-align: center;
     border-top: 4px;
 }
+.yoga-image {
+    background: url(../images/yoga.webp) no-repeat center center/cover;
+    border-radius: 50%;
+    box-shadow: 0 2px 2px black;
+}
+
+#benefits {
+    text-align: center;
+    box-sizing: border-box;
+
+}
 
 /* Footer */
 footer {
@@ -93,5 +104,5 @@ footer {
 }
 
 /* sign up page*/
-#signup {
+#signup {}
   
