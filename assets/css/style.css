@@ -72,9 +72,7 @@ nav{
     border-top: 4px;
 }
 .yoga-image {
-    background: url(../images/yoga.webp) no-repeat center center/cover;
-    border-radius: 50%;
-    box-shadow: 0 2px 2px black;
+    
 }
 
 #benefits {
@@ -104,5 +102,7 @@ footer {
 }
 
 /* sign up page*/
-#signup {}
+#signup-form {
+    background: url(../images/yoga.webp) no-repeat center cover/center;
+}
   
