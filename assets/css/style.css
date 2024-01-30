@@ -10,7 +10,7 @@
 
 /* body */
 Body {
-    background-color: rgb(188, 182, 162);
+    background-color: rgb(221, 220, 215);
     min-height: 100vh;
     font-family: 'Oswald', sans-serif;
     display: flex;
@@ -102,7 +102,16 @@ footer {
 }
 
 /* sign up page*/
-#signup-form {
-    background: url(../images/yoga.webp) no-repeat center cover/center;
+#signup {
+    background-image: url(../images/pexels-elina-fairytale-3823039.jpg.webp);
+    background-size: cover;
+    background-position: 70%;
+    padding: 40px;
+    
+
+}
+
+#singup-form {
+
 }
   
