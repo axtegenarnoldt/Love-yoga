@@ -72,6 +72,13 @@ nav{
     border-top: 4px;
 }
 
+#homepage-image {
+ display:flex;
+
+}
+#circle-image {
+    background: url(../images/pexels-menitation.jpg.webp) no-repeat center/cover;
+}
 #benefits {
     text-align: center;
     box-sizing: border-box;
