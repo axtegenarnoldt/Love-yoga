@@ -77,14 +77,16 @@ main {
     border-top: 4px;
 }
 
-#meditation-image {
-    display: flex;
-    height: 400px;
-    width: 400px;
-     
+.box1 {
+ padding: 20px;
 }
-.main-text {
- 
+.box2 {}
+
+.meditation-image {
+    background: url(../images/pexels-menitation.jpg.webp) no-repeat center center/cover;
+    position: relative;
+    left: 100px;
+    bottom: 50px;
 }
 
 #benefits {
