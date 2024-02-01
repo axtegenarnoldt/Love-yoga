@@ -77,9 +77,14 @@ main {
     border-top: 4px;
 }
 
-#homepage-image {
- display:flex;
-
+#meditation-image {
+    display: flex;
+    height: 400px;
+    width: 400px;
+     
+}
+.main-text {
+ 
 }
 
 #benefits {
