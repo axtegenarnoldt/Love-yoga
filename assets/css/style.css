@@ -129,7 +129,7 @@ main {
 
 /* Styles page */
 .yoga-styles {
-    margin-top: 50px;
+    padding: 50px;
 }
 .title {
     text-align: center;
@@ -146,6 +146,8 @@ main {
 }
 
 .style-image {
+    display:flex;
+    
 
 }
 
