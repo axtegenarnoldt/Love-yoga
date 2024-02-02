@@ -128,21 +128,26 @@ main {
 }
 
 /* Styles page */
+.yoga-styles {
+    margin-top: 50px;
+}
 .title {
     text-align: center;
-   
+    padding: 30px;
 }
 .classes {
-    border: 2px solid white;
-    box-shadow: 0 2px 4px black;
-    max-width: 350px;
-    align-items: center;
+    display: block;
+    justify-content: space-evenly;
+    box-shadow: 5px 5px 5px 5px black;
+    
 }
-.image {
-    object-fit: cover;
+.text {
+    text-align: center;
+}
+
+.style-image {
 
 }
-
 
 /* sign up page*/
 #signup {
