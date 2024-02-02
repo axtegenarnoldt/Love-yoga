@@ -128,28 +128,34 @@ main {
 }
 
 /* Styles page */
-.yoga-styles {
-    padding: 50px;
-}
+
 .title {
     text-align: center;
     padding: 30px;
 }
-.classes {
+
+#yoga-styles {
+    padding:50px;
+    flex-direction: column;
+    align-items: center;
+}
+#classes {
     display: block;
+    align-items: center;
     justify-content: space-evenly;
     box-shadow: 5px 5px 5px 5px black;
-    
+    max-width: 400px;
 }
 .text {
     text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
 }
 
 .style-image {
-    display:flex;
+    display: block;
     
-
-}
+    }
 
 /* sign up page*/
 #signup {
@@ -206,4 +212,10 @@ footer {
 #socialmedia i {
     color: black;
     font-size: 150%;
+}
+
+@media screen and (min-width: 768px) {
+    .yoga-styles {
+        column-count: 2;
+    }
 }
