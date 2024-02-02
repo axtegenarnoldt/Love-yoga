@@ -134,17 +134,35 @@ main {
     padding: 30px;
 }
 
-#yoga-styles {
+#yoga-ashtanga {
     padding:50px;
     flex-direction: column;
     align-items: center;
 }
-#classes {
+.classes {
     display: block;
     align-items: center;
     justify-content: space-evenly;
     box-shadow: 5px 5px 5px 5px black;
     max-width: 400px;
+}
+
+#yoga-meditation {
+    padding: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#yoga-iyangar {
+    padding: 50px;
+    flex-direction: column;
+    align-items: center;
+}
+
+#yoga-hatha {
+    padding: 50px;
+    flex-direction: column;
+    align-items: center;
 }
 .text {
     text-align: center;
