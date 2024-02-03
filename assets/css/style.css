@@ -107,6 +107,7 @@ main {
 /* Benefits section */
 #benefits {
     background: url(../images/pexels-elina-fairytale-3823039.jpg.webp) no-repeat center center/cover;
+    background-color: rgb(216, 216, 203);
     display: flex;
     flex-wrap: wrap;
 }
