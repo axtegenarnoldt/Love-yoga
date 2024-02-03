@@ -19,7 +19,7 @@ All the information you need you can find on the website, contact information an
 </ul>
 
 ### Welcome
-<img src="docs/welcome.jpeg" alt="women meditating">
+<img src=".docs/welcome.jpeg" alt="women meditating">
 
 <ul>
 <li>The welcome section explains that the website is for everyone, people that have experience with yoga and for beginers</li>
@@ -86,18 +86,19 @@ All the information you need you can find on the website, contact information an
 ## Validator Testing
 <ul>
 <li>index.html</li>
-No errors were returned.
+No errors were returned when passing through the official W3C validator.
 </ul>
 <ul>
 <li>yogastyles.html</li>
-No errors were returned.
+No errors were returned when passing through the official W3C validator..
 </ul>
 <ul>
 <li>signup.html</li>
-No errors werde returned.
+No errors were returned when passing through the official W3C validator.
 </ul>
 <ul>
 <li>style.css</li>
-No errors were returned.
+No errors were returned when passing through the official (Jigsaw) validator.
 </ul>
 
+<img src="docs/lighthouse.jpeg" alt="">
