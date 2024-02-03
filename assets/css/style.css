@@ -35,7 +35,6 @@ h1 {
 /* background image for header */
 #logo {
     background: url(../images/pexels-scott-webb-305821.jpg.webp) no-repeat center center/cover;
-    background-color: rgb(216, 216, 203);
     position:relative;
     width: 100%;
 }
@@ -94,7 +93,6 @@ main {
 
 #meditation-image {
     background: url(../images/pexels-menitation.jpg.webp) no-repeat center center/cover;
-    background-color: rgb(216, 216, 203);
     height: 80vw;
     width: 70vw;
 }
@@ -107,7 +105,6 @@ main {
 /* Benefits section */
 #benefits {
     background: url(../images/pexels-elina-fairytale-3823039.jpg.webp) no-repeat center center/cover;
-    background-color: rgb(216, 216, 203);
     display: flex;
     flex-wrap: wrap;
 }
