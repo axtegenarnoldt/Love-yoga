@@ -178,6 +178,9 @@ main {
     margin: 0 auto;
     align-items: center;
 }
+.yoga-type {
+    text-decoration: underline;
+}
 
 /* sign up page*/
 #signup {
