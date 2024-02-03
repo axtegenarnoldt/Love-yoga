@@ -116,3 +116,22 @@ The website was deployd to GitHub pages.
 <li>From the sourse section i selected "deploy from branch.</li>
 </ul>
 The live link: <a href="https://axtegenarnoldt.github.io/Love-yoga/">Yoga & Mindfulness</a>
+
+## Credits
+
+### Media
+<ul>
+<li>Social media links was taken from the Love Running project.
+</ul>
+
+### Content
+<ul>
+<li>All pictures on the website are from <a href=" https://www.pexels.com/sv-se/">Pexels</a></li>
+<li> The icons are from <a href="https://fontawesome.com/"></a>Font Awesome</li>
+<li>The info and content about yoga are from:</li>
+<a href="https://www.yogaalliance.org/">Yoga Alliance</a>
+<br>
+<a href="https://www.ekhartyoga.com/articles/practice/30-benefits-of-a-daily-yoga-practice">Ekhartyoga</a>
+<br>
+<a href="https://veinsolutionsflint.com/yoga-and-heart-health/">Vein Solutions</a>
+</ul>
