@@ -137,7 +137,7 @@ main {
 #yoga-ashtanga {
     padding:50px;
     flex-direction: column;
-    align-items: center;
+   
 }
 .classes {
     display: block;
@@ -145,6 +145,8 @@ main {
     justify-content: space-evenly;
     box-shadow: 5px 5px 5px 5px black;
     max-width: 400px;
+    margin: 0 auto;
+    
 }
 
 #yoga-meditation {
@@ -171,9 +173,9 @@ main {
 }
 
 .style-image {
-    display: block;
-    
-    }
+    margin: 0 auto;
+    align-items: center;
+}
 
 /* sign up page*/
 #signup {
