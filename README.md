@@ -19,7 +19,7 @@ All the information you need you can find on the website, contact information an
 </ul>
 
 ### Welcome
-<img src=".docs/welcome.jpeg" alt="women meditating">
+<img src="docs/welcome.jpeg" alt="women meditating">
 
 <ul>
 <li>The welcome section explains that the website is for everyone, people that have experience with yoga and for beginers</li>
@@ -101,4 +101,18 @@ No errors were returned when passing through the official W3C validator.
 No errors were returned when passing through the official (Jigsaw) validator.
 </ul>
 
+### Accessibility
 <img src="docs/lighthouse.jpeg" alt="">
+
+### Bugs
+unfixed bugs on preformance.
+
+## Deployment
+
+The website was deployd to GitHub pages.
+<ul>
+<li>In the GitHub repository, i clicked to settings.</li>
+<li>On the left side under code and atumation, i clicked on pages.</li>
+<li>From the sourse section i selected "deploy from branch.</li>
+</ul>
+The live link: <a href="https://axtegenarnoldt.github.io/Love-yoga/">Yoga & Mindfulness</a>
